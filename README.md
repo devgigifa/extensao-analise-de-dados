@@ -15,7 +15,7 @@ Para o projeto, conto com a colaboração de Rafael, representante da empresa Na
 
 ### 2. Situação-problema identificada
 
-Em conversas e reuniões com Rafael Chieza, ficou claro um problema relevante na gestão dos dados financeiros e administrativos da empresa. Atuando no mercado de produtos capilares para pequenos salões locais, a empresa enfrenta desafios para registrar e analisar informações essenciais que apoiem suas decisões estratégicas. Sem um sistema de organização e controle adequado, o vendedor perde a visão detalhada de pontos importantes, como o lucro exato de cada venda, o total de despesas e o perfil de compra dos clientes.
+Em conversas e reuniões com Rafael, ficou claro um problema relevante na gestão dos dados financeiros e administrativos da empresa. Atuando no mercado de produtos capilares para pequenos salões locais, a empresa enfrenta desafios para registrar e analisar informações essenciais que apoiem suas decisões estratégicas. Sem um sistema de organização e controle adequado, o vendedor perde a visão detalhada de pontos importantes, como o lucro exato de cada venda, o total de despesas e o perfil de compra dos clientes.
 
 Essas limitações dificultam entender quais salões voltam sempre, quais produtos realmente trazem mais lucro e onde estão os maiores custos da empresa. Sem dados financeiros claros e um histórico organizado de compras e vendas, fica difícil para o vendedor ter uma visão real da saúde financeira da empresa e de onde ele pode melhorar o atendimento aos clientes.
 
@@ -81,7 +81,7 @@ Por meio deste projeto, a comunidade empresarial local se beneficia de uma solu�
 
 **Identificação das necessidades:** Conversa inicial para levantamento das principais dificuldades encontradas na gestão de dados da empresa, incluindo registros de vendas, estoque, despesas e lucros.
 
-**Desenvolvimento e validação da solução:** Durante o desenvolvimento da solução em planilhas, Rafael Chieza será consultado regularmente para validar a estrutura das tabelas e fórmulas. Ele terá a chance de revisar e dar sugestões, garantindo que a ferramenta atenda às suas necessidades específicas.
+**Desenvolvimento e validação da solução:** Durante o desenvolvimento da solução em planilhas, Rafael será consultado regularmente para validar a estrutura das tabelas e fórmulas. Ele terá a chance de revisar e dar sugestões, garantindo que a ferramenta atenda às suas necessidades específicas.
 
 **Teste e feedback do sistema:** Após a conclusão do sistema de planilhas, Rafael será convidado a realizar um teste prático da ferramenta e dar seu feedback. Ele poderá apontar pontos de melhoria ou ajustes, assegurando que o sistema funcione conforme o esperado.
 
