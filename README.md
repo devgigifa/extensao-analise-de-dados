@@ -11,7 +11,7 @@ A parceria do projeto será com empreendedores locais e pequenas empresas que tr
 
 A empresa que está participando chama-se Naturall Mix Cosméticos, está localizada em Biguaçu, e atende a pequenos salões de beleza no continente da Grande Florianópolis. É importante observar que a empresa citada oferece produtos acessíveis para os bairros, já que a maioria destes negócios são empreendimentos familiares. Naturall Mix é uma microempresa com uma equipe de três funcionários que gerenciam vendas, atendimento e distribuição. A empresa trabalha diretamente com aproximadamente 15 salões pequenos, estabelecendo uma rede de parceria no setor de beleza.
 
-Para o projeto, conto com a colaboração de Rafael Chieza, representante da empresa Naturall Mix, que compartilhará insights sobre as necessidades dos salões parceiros. Essa colaboração é essencial para adaptar o projeto às reais demandas do mercado de beleza na região.
+Para o projeto, conto com a colaboração de Rafael, representante da empresa Naturall Mix, que compartilhará insights sobre as necessidades dos salões parceiros. Essa colaboração é essencial para adaptar o projeto às reais demandas do mercado de beleza na região.
 
 ### 2. Situação-problema identificada
 
